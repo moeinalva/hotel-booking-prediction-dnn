@@ -274,7 +274,7 @@ jupyter notebook
 
 **Moein Alva**
 
-M.Sc. Student | Machine Learning & Deep Learning Enthusiast
+Machine Learning & Deep Learning Enthusiast
 
 GitHub: https://github.com/moeinalva
 
